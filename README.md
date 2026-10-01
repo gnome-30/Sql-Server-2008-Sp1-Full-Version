@@ -235,4 +235,4 @@ This repository serves as the official landing page for SQL Server 2008 SP1. The
 **Get the most recent version of SQL Server 2008 SP1 today!**
 
 ---
-**Last updated:** 2026-10-01 16:46:25 UTC
+**Last updated:** 2026-10-01 21:29:15 UTC
